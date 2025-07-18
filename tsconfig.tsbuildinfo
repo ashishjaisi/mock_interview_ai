@@ -1,0 +1,1 @@
+{"root":["./vite.config.ts","./src/components/footer.tsx","./src/components/save-modal.tsx","./src/components/ui/dialog.tsx","./src/components/ui/form.tsx","./src/components/ui/tooltip.tsx","./src/routes/home.tsx"],"errors":true,"version":"5.6.3"}
